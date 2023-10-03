@@ -14,6 +14,40 @@ link tree by Akashdip Mahapatra
 ![Akashdip Mahapatra treelink](https://user-images.githubusercontent.com/81384987/191944901-397e5126-3bd9-4171-8e3c-e9755f7efe36.jpg)
 
 
+## How to contribute to this project? (For Beginners)
+### 1. Fork this project to your github account
+![image](https://github.com/oxone-999/my-social-side/assets/57314456/5ec77b68-f33b-4316-8461-010f6a1cf8ad)
+
+#### you can find this button on top right corner of the github repo.
+
+### 2. Clone the project to your local machine
+```
+git clone https://github.com/akashdip2001/my-social-side.git
+```
+### 3. Go into the my-social-side folder
+```
+cd my-social-side
+```
+### 4. Start making changes, solving issues, or adding code features.
+<pre>
+  a. Go to the Issues section in the main GitHub repo.
+  b. Select the issue with good-first-issue to get started with.
+  c. You can discuss the issue with maintainers in the discussion threads for a particular issue.
+  d. Start solving the issues and make your commits in your forked repo.
+  e. If you are confident that you solved the issue and it works perfectly, make a Pull Request.
+</pre>
+```
+git add .
+```
+```
+git commit -m "write your commit here"
+```
+```
+git push
+```
+
+### 5. Then, wait for the PR to get Accepted. Then wallah! You maid your first PR/Merge. :blush::blush:
+
 ❤❤❤ follow my YOUTUBE CHANNEL ❤❤❤
 
 -------------------------------------------------------------------------------------------------------------------------------
